@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\StringBuilder\\String_Builder.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\StringBuilder\\String_Builder.csproj",
       "projectName": "String_Builder",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\StringBuilder\\String_Builder.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\StringBuilder\\String_Builder.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\StringBuilder\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\StringBuilder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

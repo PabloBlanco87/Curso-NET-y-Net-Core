@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Cadenas\\Cadenas.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Cadenas\\Cadenas.csproj",
       "projectName": "Cadenas",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Cadenas\\Cadenas.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Cadenas\\Cadenas.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Cadenas\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Cadenas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

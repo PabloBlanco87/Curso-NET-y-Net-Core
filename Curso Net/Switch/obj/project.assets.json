@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Switch\\Switch.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Switch\\Switch.csproj",
       "projectName": "Switch",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Switch\\Switch.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Switch\\Switch.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\Switch\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Switch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

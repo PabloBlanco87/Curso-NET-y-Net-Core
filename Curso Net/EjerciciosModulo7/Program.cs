@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using static System.Console;
+using static System.Convert;
 
 namespace EjerciciosModulo7
 {
@@ -36,57 +37,90 @@ namespace EjerciciosModulo7
             /*Pedir por pantalla 5 nombres, e insertarlo en una Lista (List) una vez insertados, 
              * se pedirá que introduzcamos un nombre, el programa tendrá que decirnos si ese 
              * nombre esta contenido en la lista.*/
-             /*
-            List<string> listaNombres = new List<string>();
-            int contadorEj2 = 0;
-            string nombreIntroducido;
+            /*
+           List<string> listaNombres = new List<string>();
+           int contadorEj2 = 0;
+           string nombreIntroducido;
 
-            while (contadorEj2 < 5)
-            {
-                if (contadorEj2 == 0)
-                {
-                    Write("Por favor, introduzca un nombre: ");
-                    nombreIntroducido = ReadLine();
-                }
-                else
-                {
-                    Write("Por favor, introduzca otro nombre: ");
-                    nombreIntroducido = ReadLine();
+           while (contadorEj2 < 5)
+           {
+               if (contadorEj2 == 0)
+               {
+                   Write("Por favor, introduzca un nombre: ");
+                   nombreIntroducido = ReadLine();
+               }
+               else
+               {
+                   Write("Por favor, introduzca otro nombre: ");
+                   nombreIntroducido = ReadLine();
 
-                }
-                listaNombres.Add(nombreIntroducido);
-                contadorEj2++;
-            }
+               }
+               listaNombres.Add(nombreIntroducido);
+               contadorEj2++;
+           }
 
-            WriteLine("******************************");
-            Write("Por favor, introduzca un nombre para ver si se encuentra en la lista: ");
-            nombreIntroducido = ReadLine();
+           WriteLine("******************************");
+           Write("Por favor, introduzca un nombre para ver si se encuentra en la lista: ");
+           nombreIntroducido = ReadLine();
 
-            if (listaNombres.Contains(nombreIntroducido))
-            {
-                Write($"El nombre {nombreIntroducido} se encuentra en la lista");
-            }
-            else
-            {
-                Write($"El nombre {nombreIntroducido} no se encuentra en la lista");
-            }
+           if (listaNombres.Contains(nombreIntroducido))
+           {
+               Write($"El nombre {nombreIntroducido} se encuentra en la lista");
+           }
+           else
+           {
+               Write($"El nombre {nombreIntroducido} no se encuentra en la lista");
+           }
 
-            Read();
-            */
+           Read();
+           */
             #endregion
 
             #region Ejercicio3
             /*Pedir por pantalla 10 números, que iremos almacenando en un Listado (o 2 como prefiramos). 
              * Al terminar de introducir los números, tendremos que recorrer el/los listados, 
              * diciéndonos cuanto suman los pares y cuando los impares.*/
+            /*
+                        List<int> listaNumeros = new List<int>();
+                        int numeroIntroducido, contadorPares = 0, contadorImpares = 0;
 
+                        for (int i = 0; i < 10; i++)
+                        {
+                            if (i == 0)
+                            {
+                                Write("Por favor, introduzca un número: ");
+                                numeroIntroducido = ToInt32(ReadLine());
+                            }
+                            else
+                            {
+                                Write("Por favor, introduzca otro número: ");
+                                numeroIntroducido = ToInt32(ReadLine());
+                            }
+                            listaNumeros.Add(numeroIntroducido);
+                        }
 
+                        foreach (var item in listaNumeros)
+                        {
+                            if (item % 2 == 0)
+                            {
+                                contadorPares = contadorPares + item;
+                            }
+                            else
+                            {
+                                contadorImpares = contadorImpares + item;
+                            }
+                        }
 
-            #endregion
+                        Write($"Los números pares suman {contadorPares} y los números impares suman {contadorImpares}");
 
-            #region Ejercicio4
-            /*Crear un programa nos pida introducir 10 números enteros. esos valores los introduciremos en un Listado y  mostraremos 
-             * el numero mayor y menor, consultando los valores en el Listado.*/
+                        Read();
+                        /*
+
+                        #endregion
+
+                        #region Ejercicio4
+                        /*Crear un programa nos pida introducir 10 números enteros. esos valores los introduciremos en un Listado y  mostraremos 
+                         * el numero mayor y menor, consultando los valores en el Listado.*/
 
             #endregion
 

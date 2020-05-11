@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
       "projectName": "CursoCSharpNomenclatura",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpNomenclatura\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

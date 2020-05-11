@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
       "projectName": "CursoCSharpConstantes",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\CursoCSharpConstantes\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

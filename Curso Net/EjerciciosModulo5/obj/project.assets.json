@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\EjerciciosModulo5\\EjerciciosModulo5.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjerciciosModulo5\\EjerciciosModulo5.csproj",
       "projectName": "EjerciciosModulo5",
-      "projectPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\EjerciciosModulo5\\EjerciciosModulo5.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjerciciosModulo5\\EjerciciosModulo5.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\Curso NET\\Ejercicio 2\\EjerciciosModulo5\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjerciciosModulo5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
