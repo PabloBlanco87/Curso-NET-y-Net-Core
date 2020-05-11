@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\bin\Debug\netcoreapp2.1\EjercicioModulo4.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\bin\Debug\netcoreapp2.1\EjercicioModulo4.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\bin\Debug\netcoreapp2.1\EjercicioModulo4.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\bin\Debug\netcoreapp2.1\EjercicioModulo4.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\bin\Debug\netcoreapp2.1\EjercicioModulo4.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjercicioModulo4\obj\Debug\netcoreapp2.1\EjercicioModulo4.csprojAssemblyReference.cache

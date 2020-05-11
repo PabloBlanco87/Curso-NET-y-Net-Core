@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\bin\Debug\netcoreapp2.1\ConcatenarCadenas.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\bin\Debug\netcoreapp2.1\ConcatenarCadenas.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\bin\Debug\netcoreapp2.1\ConcatenarCadenas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\bin\Debug\netcoreapp2.1\ConcatenarCadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\bin\Debug\netcoreapp2.1\ConcatenarCadenas.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\obj\Debug\netcoreapp2.1\ConcatenarCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\obj\Debug\netcoreapp2.1\ConcatenarCadenas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\obj\Debug\netcoreapp2.1\ConcatenarCadenas.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\obj\Debug\netcoreapp2.1\ConcatenarCadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\ConcatenarCadenas\obj\Debug\netcoreapp2.1\ConcatenarCadenas.pdb

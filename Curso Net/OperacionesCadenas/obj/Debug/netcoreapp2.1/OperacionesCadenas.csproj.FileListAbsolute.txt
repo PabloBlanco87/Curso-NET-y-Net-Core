@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\bin\Debug\netcoreapp2.1\OperacionesCadenas.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\bin\Debug\netcoreapp2.1\OperacionesCadenas.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\bin\Debug\netcoreapp2.1\OperacionesCadenas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\bin\Debug\netcoreapp2.1\OperacionesCadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\bin\Debug\netcoreapp2.1\OperacionesCadenas.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\obj\Debug\netcoreapp2.1\OperacionesCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\obj\Debug\netcoreapp2.1\OperacionesCadenas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\obj\Debug\netcoreapp2.1\OperacionesCadenas.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\obj\Debug\netcoreapp2.1\OperacionesCadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\OperacionesCadenas\obj\Debug\netcoreapp2.1\OperacionesCadenas.pdb

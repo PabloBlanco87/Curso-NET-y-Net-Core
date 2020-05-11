@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\bin\Debug\netcoreapp2.1\LeyendoArgumentos.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\bin\Debug\netcoreapp2.1\LeyendoArgumentos.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\bin\Debug\netcoreapp2.1\LeyendoArgumentos.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\bin\Debug\netcoreapp2.1\LeyendoArgumentos.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\bin\Debug\netcoreapp2.1\LeyendoArgumentos.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\obj\Debug\netcoreapp2.1\LeyendoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\obj\Debug\netcoreapp2.1\LeyendoArgumentos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\obj\Debug\netcoreapp2.1\LeyendoArgumentos.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\obj\Debug\netcoreapp2.1\LeyendoArgumentos.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\LeyendoArgumentos\obj\Debug\netcoreapp2.1\LeyendoArgumentos.pdb

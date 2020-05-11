@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\bin\Debug\netcoreapp2.1\Pilas.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\bin\Debug\netcoreapp2.1\Pilas.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\bin\Debug\netcoreapp2.1\Pilas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\bin\Debug\netcoreapp2.1\Pilas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\bin\Debug\netcoreapp2.1\Pilas.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\obj\Debug\netcoreapp2.1\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\obj\Debug\netcoreapp2.1\Pilas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\obj\Debug\netcoreapp2.1\Pilas.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\obj\Debug\netcoreapp2.1\Pilas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\Pilas\obj\Debug\netcoreapp2.1\Pilas.pdb

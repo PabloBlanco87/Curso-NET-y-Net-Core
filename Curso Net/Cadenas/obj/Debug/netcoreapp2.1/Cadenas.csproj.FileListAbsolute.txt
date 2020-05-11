@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\bin\Debug\netcoreapp2.1\Cadenas.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\bin\Debug\netcoreapp2.1\Cadenas.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\bin\Debug\netcoreapp2.1\Cadenas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\bin\Debug\netcoreapp2.1\Cadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\bin\Debug\netcoreapp2.1\Cadenas.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\obj\Debug\netcoreapp2.1\Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\obj\Debug\netcoreapp2.1\Cadenas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\obj\Debug\netcoreapp2.1\Cadenas.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\obj\Debug\netcoreapp2.1\Cadenas.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\Cadenas\obj\Debug\netcoreapp2.1\Cadenas.pdb

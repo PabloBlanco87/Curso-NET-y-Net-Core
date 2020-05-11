@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LeyendoArgumentos": {
+      "commandName": "Project",
+      "commandLineArgs": "Pablo 15 Hola uno:ârg \"Hola mundo\""
+    }
+  }
+}

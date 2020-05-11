@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\bin\Debug\netcoreapp2.1\FuncionesLocales.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\bin\Debug\netcoreapp2.1\FuncionesLocales.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\bin\Debug\netcoreapp2.1\FuncionesLocales.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\bin\Debug\netcoreapp2.1\FuncionesLocales.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\bin\Debug\netcoreapp2.1\FuncionesLocales.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\obj\Debug\netcoreapp2.1\FuncionesLocales.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\obj\Debug\netcoreapp2.1\FuncionesLocales.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\obj\Debug\netcoreapp2.1\FuncionesLocales.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\obj\Debug\netcoreapp2.1\FuncionesLocales.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\FuncionesLocales\obj\Debug\netcoreapp2.1\FuncionesLocales.pdb

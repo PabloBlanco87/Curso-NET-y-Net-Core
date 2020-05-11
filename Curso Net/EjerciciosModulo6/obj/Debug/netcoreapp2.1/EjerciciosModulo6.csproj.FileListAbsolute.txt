@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\bin\Debug\netcoreapp2.1\EjerciciosModulo6.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\bin\Debug\netcoreapp2.1\EjerciciosModulo6.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\bin\Debug\netcoreapp2.1\EjerciciosModulo6.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\bin\Debug\netcoreapp2.1\EjerciciosModulo6.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\bin\Debug\netcoreapp2.1\EjerciciosModulo6.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\EjerciciosModulo6\obj\Debug\netcoreapp2.1\EjerciciosModulo6.pdb

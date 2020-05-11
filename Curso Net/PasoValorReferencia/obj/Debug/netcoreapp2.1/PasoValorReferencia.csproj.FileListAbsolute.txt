@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\bin\Debug\netcoreapp2.1\PasoValorReferencia.deps.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\bin\Debug\netcoreapp2.1\PasoValorReferencia.runtimeconfig.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\bin\Debug\netcoreapp2.1\PasoValorReferencia.runtimeconfig.dev.json
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\bin\Debug\netcoreapp2.1\PasoValorReferencia.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\bin\Debug\netcoreapp2.1\PasoValorReferencia.pdb
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\obj\Debug\netcoreapp2.1\PasoValorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\obj\Debug\netcoreapp2.1\PasoValorReferencia.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\obj\Debug\netcoreapp2.1\PasoValorReferencia.AssemblyInfo.cs
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\obj\Debug\netcoreapp2.1\PasoValorReferencia.dll
+C:\Users\Pablo\Curso NET\Ejercicio 2\PasoValorReferencia\obj\Debug\netcoreapp2.1\PasoValorReferencia.pdb
