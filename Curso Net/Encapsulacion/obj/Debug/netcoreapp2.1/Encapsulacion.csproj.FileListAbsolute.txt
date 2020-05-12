@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\bin\Debug\netcoreapp2.1\Encapsulacion.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\bin\Debug\netcoreapp2.1\Encapsulacion.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\bin\Debug\netcoreapp2.1\Encapsulacion.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\bin\Debug\netcoreapp2.1\Encapsulacion.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\bin\Debug\netcoreapp2.1\Encapsulacion.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Encapsulacion\obj\Debug\netcoreapp2.1\Encapsulacion.pdb
