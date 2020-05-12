@@ -75,6 +75,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulacion", "Encapsulac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +207,10 @@ Global
 		{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -241,6 +247,7 @@ Global
 		{0996610D-68CD-41EE-A491-41F04FCD8403} = {7F603ACB-7E20-4D1A-A355-347B564170E4}
 		{4B4605AC-E964-480B-9057-DB74C86D3763} = {7F603ACB-7E20-4D1A-A355-347B564170E4}
 		{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA} = {7F603ACB-7E20-4D1A-A355-347B564170E4}
+		{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692} = {7F603ACB-7E20-4D1A-A355-347B564170E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0A3BE2C0-B98E-4861-A7F1-3F078D5077B5}
