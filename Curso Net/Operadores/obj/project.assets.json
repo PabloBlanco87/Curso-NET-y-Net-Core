@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Operadores\\Operadores.csproj",
-      "projectName": "Operadores",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Operadores\\Operadores.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Operadores\\Mod4_Operadores.csproj",
+      "projectName": "Mod4_Operadores",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Operadores\\Mod4_Operadores.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Operadores\\obj\\",
       "projectStyle": "PackageReference",

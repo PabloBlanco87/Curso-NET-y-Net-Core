@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Abstraccion\\Abstraccion.csproj",
-      "projectName": "Abstraccion",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Abstraccion\\Abstraccion.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Abstraccion\\Mod8_Abstraccion.csproj",
+      "projectName": "Mod8_Abstraccion",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Abstraccion\\Mod8_Abstraccion.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Abstraccion\\obj\\",
       "projectStyle": "PackageReference",

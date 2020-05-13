@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\MetodosDeExtension\\MetodosDeExtension.csproj",
-      "projectName": "MetodosDeExtension",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\MetodosDeExtension\\MetodosDeExtension.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\MetodosDeExtension\\Mod9_MetodosDeExtension.csproj",
+      "projectName": "Mod9_MetodosDeExtension",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\MetodosDeExtension\\Mod9_MetodosDeExtension.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\MetodosDeExtension\\obj\\",
       "projectStyle": "PackageReference",

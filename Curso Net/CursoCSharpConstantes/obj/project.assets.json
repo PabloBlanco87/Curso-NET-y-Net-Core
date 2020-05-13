@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
-      "projectName": "CursoCSharpConstantes",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\CursoCSharpConstantes.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\Mod4_CursoCSharpConstantes.csproj",
+      "projectName": "Mod4_CursoCSharpConstantes",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\Mod4_CursoCSharpConstantes.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpConstantes\\obj\\",
       "projectStyle": "PackageReference",

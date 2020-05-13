@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\OperacionesCadenas\\OperacionesCadenas.csproj",
-      "projectName": "OperacionesCadenas",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\OperacionesCadenas\\OperacionesCadenas.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\OperacionesCadenas\\Mod6_OperacionesCadenas.csproj",
+      "projectName": "Mod6_OperacionesCadenas",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\OperacionesCadenas\\Mod6_OperacionesCadenas.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\OperacionesCadenas\\obj\\",
       "projectStyle": "PackageReference",

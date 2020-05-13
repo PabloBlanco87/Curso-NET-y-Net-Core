@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\BodiedMembers\\BodiedMembers.csproj",
-      "projectName": "BodiedMembers",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\BodiedMembers\\BodiedMembers.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\BodiedMembers\\Mod9_BodiedMembers.csproj",
+      "projectName": "Mod9_BodiedMembers",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\BodiedMembers\\Mod9_BodiedMembers.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\BodiedMembers\\obj\\",
       "projectStyle": "PackageReference",

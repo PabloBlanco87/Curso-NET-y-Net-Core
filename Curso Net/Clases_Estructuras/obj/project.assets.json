@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Estructuras\\Clases_Estructuras.csproj",
-      "projectName": "Clases_Estructuras",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Estructuras\\Clases_Estructuras.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Estructuras\\Mod9_Clases_Estructuras.csproj",
+      "projectName": "Mod9_Clases_Estructuras",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Estructuras\\Mod9_Clases_Estructuras.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Estructuras\\obj\\",
       "projectStyle": "PackageReference",

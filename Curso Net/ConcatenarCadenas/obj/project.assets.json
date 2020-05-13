@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ConcatenarCadenas\\ConcatenarCadenas.csproj",
-      "projectName": "ConcatenarCadenas",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ConcatenarCadenas\\ConcatenarCadenas.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ConcatenarCadenas\\Mod6_ConcatenarCadenas.csproj",
+      "projectName": "Mod6_ConcatenarCadenas",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ConcatenarCadenas\\Mod6_ConcatenarCadenas.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ConcatenarCadenas\\obj\\",
       "projectStyle": "PackageReference",

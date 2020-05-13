@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjemploFunciones\\EjemploFunciones.csproj",
-      "projectName": "EjemploFunciones",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjemploFunciones\\EjemploFunciones.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjemploFunciones\\Mod5_EjemploFunciones.csproj",
+      "projectName": "Mod5_EjemploFunciones",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjemploFunciones\\Mod5_EjemploFunciones.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\EjemploFunciones\\obj\\",
       "projectStyle": "PackageReference",

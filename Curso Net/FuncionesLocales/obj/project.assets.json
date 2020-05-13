@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\FuncionesLocales\\FuncionesLocales.csproj",
-      "projectName": "FuncionesLocales",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\FuncionesLocales\\FuncionesLocales.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\FuncionesLocales\\Mod5_FuncionesLocales.csproj",
+      "projectName": "Mod5_FuncionesLocales",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\FuncionesLocales\\Mod5_FuncionesLocales.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\FuncionesLocales\\obj\\",
       "projectStyle": "PackageReference",

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CastingConversiones\\CastingConversiones.csproj",
-      "projectName": "CastingConversiones",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CastingConversiones\\CastingConversiones.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CastingConversiones\\Mod4_CastingConversiones.csproj",
+      "projectName": "Mod4_CastingConversiones",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CastingConversiones\\Mod4_CastingConversiones.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CastingConversiones\\obj\\",
       "projectStyle": "PackageReference",

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Encapsulacion\\Encapsulacion.csproj",
-      "projectName": "Encapsulacion",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Encapsulacion\\Encapsulacion.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Encapsulacion\\Mod8_Encapsulacion.csproj",
+      "projectName": "Mod8_Encapsulacion",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Encapsulacion\\Mod8_Encapsulacion.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Encapsulacion\\obj\\",
       "projectStyle": "PackageReference",

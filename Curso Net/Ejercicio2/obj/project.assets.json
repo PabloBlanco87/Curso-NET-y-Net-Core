@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Ejercicio2\\Ejercicio2.csproj",
-      "projectName": "Ejercicio2",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Ejercicio2\\Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Ejercicio2\\Mod9_Ejercicio2.csproj",
+      "projectName": "Mod9_Ejercicio2",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Ejercicio2\\Mod9_Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",

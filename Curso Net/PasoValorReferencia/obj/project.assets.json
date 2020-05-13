@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\PasoValorReferencia\\PasoValorReferencia.csproj",
-      "projectName": "PasoValorReferencia",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\PasoValorReferencia\\PasoValorReferencia.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\PasoValorReferencia\\Mod5_PasoValorReferencia.csproj",
+      "projectName": "Mod5_PasoValorReferencia",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\PasoValorReferencia\\Mod5_PasoValorReferencia.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\PasoValorReferencia\\obj\\",
       "projectStyle": "PackageReference",

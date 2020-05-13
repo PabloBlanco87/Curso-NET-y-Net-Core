@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseSealed\\ClaseSealed.csproj",
-      "projectName": "ClaseSealed",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseSealed\\ClaseSealed.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseSealed\\Mod9_ClaseSealed.csproj",
+      "projectName": "Mod9_ClaseSealed",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseSealed\\Mod9_ClaseSealed.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseSealed\\obj\\",
       "projectStyle": "PackageReference",

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Polimorfismo\\Polimorfismo.csproj",
-      "projectName": "Polimorfismo",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Polimorfismo\\Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Polimorfismo\\Mod8_Polimorfismo.csproj",
+      "projectName": "Mod8_Polimorfismo",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Polimorfismo\\Mod8_Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",

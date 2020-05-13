@@ -3,109 +3,119 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1082
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioModulo3", "Ejercicio 2\EjercicioModulo3.csproj", "{06000DF6-5503-4EBA-B185-BA5680EE3F6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_EjercicioModulo3", "Ejercicio 2\Mod4_EjercicioModulo3.csproj", "{06000DF6-5503-4EBA-B185-BA5680EE3F6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharpNomenclatura", "CursoCSharpNomenclatura\CursoCSharpNomenclatura.csproj", "{85376F45-C1FD-4100-A0BA-53D12DE9103F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_CursoCSharpNomenclatura", "CursoCSharpNomenclatura\Mod4_CursoCSharpNomenclatura.csproj", "{85376F45-C1FD-4100-A0BA-53D12DE9103F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharpConstantes", "CursoCSharpConstantes\CursoCSharpConstantes.csproj", "{A0E03C94-CF5C-4D85-B2EB-78C1E017F89B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_CursoCSharpConstantes", "CursoCSharpConstantes\Mod4_CursoCSharpConstantes.csproj", "{A0E03C94-CF5C-4D85-B2EB-78C1E017F89B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharpIFELSE", "CursoCSharpIFELSE\CursoCSharpIFELSE.csproj", "{362FE8FF-B373-4F77-B51F-C2058EBC6B1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_CursoCSharpIFELSE", "CursoCSharpIFELSE\Mod4_CursoCSharpIFELSE.csproj", "{362FE8FF-B373-4F77-B51F-C2058EBC6B1C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch", "Switch\Switch.csproj", "{6622AF81-00CB-4E90-96F3-A8A1A327A60B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_Switch", "Switch\Mod4_Switch.csproj", "{6622AF81-00CB-4E90-96F3-A8A1A327A60B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iteraciones", "Iteraciones\Iteraciones.csproj", "{1075BC0E-4FE4-4619-80B8-CED508E9C6F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_Iteraciones", "Iteraciones\Mod4_Iteraciones.csproj", "{1075BC0E-4FE4-4619-80B8-CED508E9C6F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operadores", "Operadores\Operadores.csproj", "{32340997-4164-453E-A60F-38C19B96F0FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_Operadores", "Operadores\Mod4_Operadores.csproj", "{32340997-4164-453E-A60F-38C19B96F0FB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeyendoArgumentos", "LeyendoArgumentos\LeyendoArgumentos.csproj", "{B0409E33-1923-4D52-81F3-741A15830352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_LeyendoArgumentos", "LeyendoArgumentos\Mod4_LeyendoArgumentos.csproj", "{B0409E33-1923-4D52-81F3-741A15830352}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{2DD457B9-EB4F-4822-908E-4FF1A5A671AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_Arrays", "Arrays\Mod4_Arrays.csproj", "{2DD457B9-EB4F-4822-908E-4FF1A5A671AF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CastingConversiones", "CastingConversiones\CastingConversiones.csproj", "{95FDE16E-3C4D-42D1-8D40-96253FFD57F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_CastingConversiones", "CastingConversiones\Mod4_CastingConversiones.csproj", "{95FDE16E-3C4D-42D1-8D40-96253FFD57F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjercicioModulo4", "EjercicioModulo4\EjercicioModulo4.csproj", "{C3E55CD8-823C-4614-AF54-90C9BECAC6C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod4_EjercicioModulo4", "EjercicioModulo4\Mod4_EjercicioModulo4.csproj", "{C3E55CD8-823C-4614-AF54-90C9BECAC6C5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo4_Introduccion", "Modulo4_Introduccion", "{12D86080-9B67-4595-ADAE-9AD61012B361}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo5_MetodosYFunciones", "Modulo5_MetodosYFunciones", "{FCE27579-F205-4260-B111-953506CB9C99}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcedimientosFunciones", "ProcedimientosFunciones\ProcedimientosFunciones.csproj", "{440BF63B-9673-48EE-BD3A-95C1D2D6CE91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_ProcedimientosFunciones", "ProcedimientosFunciones\Mod5_ProcedimientosFunciones.csproj", "{440BF63B-9673-48EE-BD3A-95C1D2D6CE91}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funciones", "Funciones\Funciones.csproj", "{25858060-55E3-44BF-947F-3255FA13624E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_Funciones", "Funciones\Mod5_Funciones.csproj", "{25858060-55E3-44BF-947F-3255FA13624E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PasoValorReferencia", "PasoValorReferencia\PasoValorReferencia.csproj", "{69B0E2B7-F3D8-4AEC-8C22-42DDD1068EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_PasoValorReferencia", "PasoValorReferencia\Mod5_PasoValorReferencia.csproj", "{69B0E2B7-F3D8-4AEC-8C22-42DDD1068EDC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncionesLocales", "FuncionesLocales\FuncionesLocales.csproj", "{E17D9F7C-402F-444A-92EF-ECCFAD396E21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_FuncionesLocales", "FuncionesLocales\Mod5_FuncionesLocales.csproj", "{E17D9F7C-402F-444A-92EF-ECCFAD396E21}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjemploFunciones", "EjemploFunciones\EjemploFunciones.csproj", "{FA549913-F173-4DCB-B3D1-5F6B843E35EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_EjemploFunciones", "EjemploFunciones\Mod5_EjemploFunciones.csproj", "{FA549913-F173-4DCB-B3D1-5F6B843E35EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjerciciosModulo5", "EjerciciosModulo5\EjerciciosModulo5.csproj", "{212DB963-0655-4C8F-B6E5-4D558237351D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod5_EjerciciosModulo5", "EjerciciosModulo5\Mod5_EjerciciosModulo5.csproj", "{212DB963-0655-4C8F-B6E5-4D558237351D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo6_Cadenas", "Modulo6_Cadenas", "{19B57887-2B29-4BF4-9509-6574D100CC51}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cadenas", "Cadenas\Cadenas.csproj", "{16EE71C4-B1C2-4074-924A-DE7D9F448485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod6_Cadenas", "Cadenas\Mod6_Cadenas.csproj", "{16EE71C4-B1C2-4074-924A-DE7D9F448485}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConcatenarCadenas", "ConcatenarCadenas\ConcatenarCadenas.csproj", "{AE85E4EA-A4F1-4765-91CE-085684825CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod6_ConcatenarCadenas", "ConcatenarCadenas\Mod6_ConcatenarCadenas.csproj", "{AE85E4EA-A4F1-4765-91CE-085684825CF1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String_Builder", "StringBuilder\String_Builder.csproj", "{9512F65C-7FA3-4475-B460-E72C8B6248D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod6_String_Builder", "StringBuilder\Mod6_String_Builder.csproj", "{9512F65C-7FA3-4475-B460-E72C8B6248D7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperacionesCadenas", "OperacionesCadenas\OperacionesCadenas.csproj", "{37A7BBEB-EF4B-448A-8C77-C45581A2E068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod6_OperacionesCadenas", "OperacionesCadenas\Mod6_OperacionesCadenas.csproj", "{37A7BBEB-EF4B-448A-8C77-C45581A2E068}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjerciciosModulo6", "EjerciciosModulo6\EjerciciosModulo6.csproj", "{E6D82B73-97D2-4390-B527-81AC14DF79A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod6_EjerciciosModulo6", "EjerciciosModulo6\Mod6_EjerciciosModulo6.csproj", "{E6D82B73-97D2-4390-B527-81AC14DF79A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo7_Colecciones", "Modulo7_Colecciones", "{A86EC529-60E2-4D35-9169-356AA3C51766}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList", "Colecciones\ArrayList.csproj", "{86B9DE1D-895E-4433-ACC7-E6BDFD5F45B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod7_ArrayList", "Colecciones\Mod7_ArrayList.csproj", "{86B9DE1D-895E-4433-ACC7-E6BDFD5F45B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pilas", "Pilas\Pilas.csproj", "{B709AD61-E61C-4D06-9F11-7F4151A56535}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod7_Pilas", "Pilas\Mod7_Pilas.csproj", "{B709AD61-E61C-4D06-9F11-7F4151A56535}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colas", "Colas\Colas.csproj", "{B1BFEF59-85F2-440B-AF83-5DE8B48E69EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod7_Colas", "Colas\Mod7_Colas.csproj", "{B1BFEF59-85F2-440B-AF83-5DE8B48E69EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash_Table", "HashTable\Hash_Table.csproj", "{D0559B55-4B32-4AB3-875B-7AF89085EF24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod7_Hash_Table", "HashTable\Mod7_Hash_Table.csproj", "{D0559B55-4B32-4AB3-875B-7AF89085EF24}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjerciciosModulo7", "EjerciciosModulo7\EjerciciosModulo7.csproj", "{DEC3F567-8B2C-4CF8-AE27-12C96B0921A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod7_Ejercicios", "EjerciciosModulo7\Mod7_Ejercicios.csproj", "{DEC3F567-8B2C-4CF8-AE27-12C96B0921A8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo8_POO", "Modulo8_POO", "{7F603ACB-7E20-4D1A-A355-347B564170E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases_Objetos", "Clases_Objetos\Clases_Objetos.csproj", "{E0FAAA1E-CCC9-4246-B948-319165CA0AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod8_Clases_Objetos", "Clases_Objetos\Mod8_Clases_Objetos.csproj", "{E0FAAA1E-CCC9-4246-B948-319165CA0AD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstraccion", "Abstraccion\Abstraccion.csproj", "{0996610D-68CD-41EE-A491-41F04FCD8403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod8_Abstraccion", "Abstraccion\Mod8_Abstraccion.csproj", "{0996610D-68CD-41EE-A491-41F04FCD8403}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulacion", "Encapsulacion\Encapsulacion.csproj", "{4B4605AC-E964-480B-9057-DB74C86D3763}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod8_Encapsulacion", "Encapsulacion\Mod8_Encapsulacion.csproj", "{4B4605AC-E964-480B-9057-DB74C86D3763}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Herencia\Herencia.csproj", "{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod8_Herencia", "Herencia\Mod8_Herencia.csproj", "{10F3D568-BC39-4C0D-A15D-C1EA065CA2DA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod8_Polimorfismo", "Polimorfismo\Mod8_Polimorfismo.csproj", "{4969A1AB-7F2E-4A65-AB3A-A72CD09C0692}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo9_Clases", "Modulo9_Clases", "{0F61B6F6-6ADD-41A6-B5EF-2CDC02AB776B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clases_Estructuras", "Clases_Estructuras\Clases_Estructuras.csproj", "{661CA9E0-24F4-4C79-9C36-68A33F19525A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Clases_Estructuras", "Clases_Estructuras\Mod9_Clases_Estructuras.csproj", "{661CA9E0-24F4-4C79-9C36-68A33F19525A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeclaracionClases", "DeclaracionClases\DeclaracionClases.csproj", "{479DA02E-0E40-42B1-AAE7-9A50723F91E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_DeclaracionClases", "DeclaracionClases\Mod9_DeclaracionClases.csproj", "{479DA02E-0E40-42B1-AAE7-9A50723F91E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaseAbstracta", "ClaseAbstracta\ClaseAbstracta.csproj", "{FE094C1F-33CA-4802-BBFD-5EC60A584DB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_ClaseAbstracta", "ClaseAbstracta\Mod9_ClaseAbstracta.csproj", "{FE094C1F-33CA-4802-BBFD-5EC60A584DB9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClaseSealed", "ClaseSealed\ClaseSealed.csproj", "{19C42E06-A252-4135-9E03-8CC64EAAC0F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_ClaseSealed", "ClaseSealed\Mod9_ClaseSealed.csproj", "{19C42E06-A252-4135-9E03-8CC64EAAC0F7}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasesEstaticas", "ClasesEstaticas\ClasesEstaticas.csproj", "{5D7E0138-016A-43D4-B5E4-3D8DA3E8B4FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_ClasesEstaticas", "ClasesEstaticas\Mod9_ClasesEstaticas.csproj", "{5D7E0138-016A-43D4-B5E4-3D8DA3E8B4FF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{01FDEE36-E2A7-4822-A8D7-2DA08F908D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio1", "Ejercicio1\Mod9_Ejercicio1.csproj", "{01FDEE36-E2A7-4822-A8D7-2DA08F908D86}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{C512B83A-F72F-4E7D-9EFC-A224811D7FC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio2", "Ejercicio2\Mod9_Ejercicio2.csproj", "{C512B83A-F72F-4E7D-9EFC-A224811D7FC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDeExtension", "MetodosDeExtension\MetodosDeExtension.csproj", "{00BF72A5-0284-4458-B53A-5019F868092E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_MetodosDeExtension", "MetodosDeExtension\Mod9_MetodosDeExtension.csproj", "{00BF72A5-0284-4458-B53A-5019F868092E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodiedMembers", "BodiedMembers\BodiedMembers.csproj", "{24872659-40A2-4781-89F1-54313D6E3A72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_BodiedMembers", "BodiedMembers\Mod9_BodiedMembers.csproj", "{24872659-40A2-4781-89F1-54313D6E3A72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobrecargaOperadores", "SobrecargaOperadores\SobrecargaOperadores.csproj", "{B94F42C1-831F-4FF1-A1C9-13F5F6B211AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_SobrecargaOperadores", "SobrecargaOperadores\Mod9_SobrecargaOperadores.csproj", "{B94F42C1-831F-4FF1-A1C9-13F5F6B211AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{0B030AD1-3318-4035-B430-619B43860844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio3", "Ejercicio3\Mod9_Ejercicio3.csproj", "{0B030AD1-3318-4035-B430-619B43860844}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4", "Ejercicio4\Ejercicio4.csproj", "{2A929105-C1B3-4D43-B893-19094E711933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio4", "Ejercicio4\Mod9_Ejercicio4.csproj", "{2A929105-C1B3-4D43-B893-19094E711933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio5", "Ejercicio5\Ejercicio5.csproj", "{69742B88-45C0-4E08-927D-7914014F5F8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio5", "Ejercicio5\Mod9_Ejercicio5.csproj", "{69742B88-45C0-4E08-927D-7914014F5F8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio6", "Ejercicio6\Ejercicio6.csproj", "{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod9_Ejercicio6", "Ejercicio6\Mod9_Ejercicio6.csproj", "{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo10_Interfaces", "Modulo10_Interfaces", "{235E5C84-7207-4BA2-BCDB-A514CC3E310A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod10_Interfaces", "Interfaces\Mod10_Interfaces.csproj", "{561893C2-CBDE-4BEE-A815-DF5BE5EFB610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod10_I_Disposable", "IDisposable\Mod10_I_Disposable.csproj", "{8BAEBB10-6086-4693-9A2B-B2A8DD22016E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod10_ClaseAbstractaVSInterfaces", "ClaseAbstractaVSInterfaces\Mod10_ClaseAbstractaVSInterfaces.csproj", "{9A381815-298A-448A-A269-3359BEB1BF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod10_Ejercicio1", "Mod10_Ejercicio1\Mod10_Ejercicio1.csproj", "{4937E119-CD22-465D-9415-782182F324B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -297,6 +307,22 @@ Global
 		{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{561893C2-CBDE-4BEE-A815-DF5BE5EFB610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561893C2-CBDE-4BEE-A815-DF5BE5EFB610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561893C2-CBDE-4BEE-A815-DF5BE5EFB610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561893C2-CBDE-4BEE-A815-DF5BE5EFB610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BAEBB10-6086-4693-9A2B-B2A8DD22016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAEBB10-6086-4693-9A2B-B2A8DD22016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAEBB10-6086-4693-9A2B-B2A8DD22016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAEBB10-6086-4693-9A2B-B2A8DD22016E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A381815-298A-448A-A269-3359BEB1BF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A381815-298A-448A-A269-3359BEB1BF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A381815-298A-448A-A269-3359BEB1BF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A381815-298A-448A-A269-3359BEB1BF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4937E119-CD22-465D-9415-782182F324B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4937E119-CD22-465D-9415-782182F324B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4937E119-CD22-465D-9415-782182F324B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4937E119-CD22-465D-9415-782182F324B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -347,6 +373,11 @@ Global
 		{0B030AD1-3318-4035-B430-619B43860844} = {0F61B6F6-6ADD-41A6-B5EF-2CDC02AB776B}
 		{2A929105-C1B3-4D43-B893-19094E711933} = {0F61B6F6-6ADD-41A6-B5EF-2CDC02AB776B}
 		{69742B88-45C0-4E08-927D-7914014F5F8D} = {0F61B6F6-6ADD-41A6-B5EF-2CDC02AB776B}
+		{C3F006C0-C1D3-4DF4-A95B-099ECC3756CA} = {0F61B6F6-6ADD-41A6-B5EF-2CDC02AB776B}
+		{561893C2-CBDE-4BEE-A815-DF5BE5EFB610} = {235E5C84-7207-4BA2-BCDB-A514CC3E310A}
+		{8BAEBB10-6086-4693-9A2B-B2A8DD22016E} = {235E5C84-7207-4BA2-BCDB-A514CC3E310A}
+		{9A381815-298A-448A-A269-3359BEB1BF4C} = {235E5C84-7207-4BA2-BCDB-A514CC3E310A}
+		{4937E119-CD22-465D-9415-782182F324B2} = {235E5C84-7207-4BA2-BCDB-A514CC3E310A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0A3BE2C0-B98E-4861-A7F1-3F078D5077B5}

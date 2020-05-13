@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ProcedimientosFunciones\\ProcedimientosFunciones.csproj",
-      "projectName": "ProcedimientosFunciones",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ProcedimientosFunciones\\ProcedimientosFunciones.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ProcedimientosFunciones\\Mod5_ProcedimientosFunciones.csproj",
+      "projectName": "Mod5_ProcedimientosFunciones",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ProcedimientosFunciones\\Mod5_ProcedimientosFunciones.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ProcedimientosFunciones\\obj\\",
       "projectStyle": "PackageReference",

@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\LeyendoArgumentos\\LeyendoArgumentos.csproj",
-      "projectName": "LeyendoArgumentos",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\LeyendoArgumentos\\LeyendoArgumentos.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\LeyendoArgumentos\\Mod4_LeyendoArgumentos.csproj",
+      "projectName": "Mod4_LeyendoArgumentos",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\LeyendoArgumentos\\Mod4_LeyendoArgumentos.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\LeyendoArgumentos\\obj\\",
       "projectStyle": "PackageReference",

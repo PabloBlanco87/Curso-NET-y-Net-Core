@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
-      "projectName": "CursoCSharpNomenclatura",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\CursoCSharpNomenclatura.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\Mod4_CursoCSharpNomenclatura.csproj",
+      "projectName": "Mod4_CursoCSharpNomenclatura",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\Mod4_CursoCSharpNomenclatura.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpNomenclatura\\obj\\",
       "projectStyle": "PackageReference",

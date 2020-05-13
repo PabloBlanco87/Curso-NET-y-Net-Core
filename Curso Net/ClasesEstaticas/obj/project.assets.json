@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClasesEstaticas\\ClasesEstaticas.csproj",
-      "projectName": "ClasesEstaticas",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClasesEstaticas\\ClasesEstaticas.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClasesEstaticas\\Mod9_ClasesEstaticas.csproj",
+      "projectName": "Mod9_ClasesEstaticas",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClasesEstaticas\\Mod9_ClasesEstaticas.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClasesEstaticas\\obj\\",
       "projectStyle": "PackageReference",

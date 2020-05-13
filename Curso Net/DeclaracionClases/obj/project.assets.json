@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\DeclaracionClases\\DeclaracionClases.csproj",
-      "projectName": "DeclaracionClases",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\DeclaracionClases\\DeclaracionClases.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\DeclaracionClases\\Mod9_DeclaracionClases.csproj",
+      "projectName": "Mod9_DeclaracionClases",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\DeclaracionClases\\Mod9_DeclaracionClases.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\DeclaracionClases\\obj\\",
       "projectStyle": "PackageReference",

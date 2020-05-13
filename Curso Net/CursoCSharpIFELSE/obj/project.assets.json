@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpIFELSE\\CursoCSharpIFELSE.csproj",
-      "projectName": "CursoCSharpIFELSE",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpIFELSE\\CursoCSharpIFELSE.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpIFELSE\\Mod4_CursoCSharpIFELSE.csproj",
+      "projectName": "Mod4_CursoCSharpIFELSE",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpIFELSE\\Mod4_CursoCSharpIFELSE.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\CursoCSharpIFELSE\\obj\\",
       "projectStyle": "PackageReference",

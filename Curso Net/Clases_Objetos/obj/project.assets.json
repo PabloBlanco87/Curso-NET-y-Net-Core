@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Objetos\\Clases_Objetos.csproj",
-      "projectName": "Clases_Objetos",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Objetos\\Clases_Objetos.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Objetos\\Mod8_Clases_Objetos.csproj",
+      "projectName": "Mod8_Clases_Objetos",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Objetos\\Mod8_Clases_Objetos.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\Clases_Objetos\\obj\\",
       "projectStyle": "PackageReference",

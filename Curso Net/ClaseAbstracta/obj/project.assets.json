@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseAbstracta\\ClaseAbstracta.csproj",
-      "projectName": "ClaseAbstracta",
-      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseAbstracta\\ClaseAbstracta.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseAbstracta\\Mod9_ClaseAbstracta.csproj",
+      "projectName": "Mod9_ClaseAbstracta",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseAbstracta\\Mod9_ClaseAbstracta.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\Curso Net\\ClaseAbstracta\\obj\\",
       "projectStyle": "PackageReference",
