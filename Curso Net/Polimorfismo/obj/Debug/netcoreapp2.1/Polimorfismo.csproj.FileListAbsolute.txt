@@ -8,3 +8,4 @@ C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Polimorfismo\obj\Debug\netcoreapp2
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.AssemblyInfo.cs
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.dll
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Polimorfismo\obj\Debug\netcoreapp2.1\Polimorfismo.csprojAssemblyReference.cache
