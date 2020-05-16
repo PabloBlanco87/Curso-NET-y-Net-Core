@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\bin\Debug\netcoreapp2.1\Mod12_CustomExceptions.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\bin\Debug\netcoreapp2.1\Mod12_CustomExceptions.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\bin\Debug\netcoreapp2.1\Mod12_CustomExceptions.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\bin\Debug\netcoreapp2.1\Mod12_CustomExceptions.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\bin\Debug\netcoreapp2.1\Mod12_CustomExceptions.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\obj\Debug\netcoreapp2.1\Mod12_CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\obj\Debug\netcoreapp2.1\Mod12_CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\obj\Debug\netcoreapp2.1\Mod12_CustomExceptions.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\obj\Debug\netcoreapp2.1\Mod12_CustomExceptions.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_CustomExceptions\obj\Debug\netcoreapp2.1\Mod12_CustomExceptions.pdb

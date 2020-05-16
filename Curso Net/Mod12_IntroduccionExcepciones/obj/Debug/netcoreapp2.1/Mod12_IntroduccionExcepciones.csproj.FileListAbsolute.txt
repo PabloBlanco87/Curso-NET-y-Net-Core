@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\bin\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\bin\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\bin\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\bin\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\bin\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\obj\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\obj\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\obj\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\obj\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod12_IntroduccionExcepciones\obj\Debug\netcoreapp2.1\Mod12_IntroduccionExcepciones.pdb
