@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb

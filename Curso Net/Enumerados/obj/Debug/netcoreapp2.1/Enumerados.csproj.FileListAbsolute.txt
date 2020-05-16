@@ -1,0 +1,4 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Enumerados.AssemblyInfo.cs
