@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Arrays
+namespace Mod4_Arrays
 {
     class Program
     {
