@@ -205,7 +205,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod15_OperadoresLinq", "Mod
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modulo16_Azure", "Modulo16_Azure", "{A81C0DE7-18DE-4172-8A84-F052EADE7445}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod16_app-service", "Mod16_app-service\Mod16_app-service.csproj", "{4D5C0711-3DCE-49A6-83C9-DBB228C6BDED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mod16_app-service", "Mod16_app-service\Mod16_app-service.csproj", "{4D5C0711-3DCE-49A6-83C9-DBB228C6BDED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{F94BA183-2BDC-4351-B360-2BF1DBEF7974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -569,6 +571,10 @@ Global
 		{4D5C0711-3DCE-49A6-83C9-DBB228C6BDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D5C0711-3DCE-49A6-83C9-DBB228C6BDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D5C0711-3DCE-49A6-83C9-DBB228C6BDED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F94BA183-2BDC-4351-B360-2BF1DBEF7974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F94BA183-2BDC-4351-B360-2BF1DBEF7974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F94BA183-2BDC-4351-B360-2BF1DBEF7974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F94BA183-2BDC-4351-B360-2BF1DBEF7974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
