@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.pdb

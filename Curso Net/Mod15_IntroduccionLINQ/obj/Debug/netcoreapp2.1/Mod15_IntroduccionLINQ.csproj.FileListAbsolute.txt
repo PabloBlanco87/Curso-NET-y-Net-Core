@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\bin\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\bin\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\bin\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\bin\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\bin\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\obj\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\obj\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\obj\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\obj\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntroduccionLINQ\obj\Debug\netcoreapp2.1\Mod15_IntroduccionLINQ.pdb
