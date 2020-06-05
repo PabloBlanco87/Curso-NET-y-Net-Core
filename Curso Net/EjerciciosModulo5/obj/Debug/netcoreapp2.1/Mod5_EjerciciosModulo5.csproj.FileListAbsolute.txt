@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\bin\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\bin\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\bin\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\bin\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\bin\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo5\obj\Debug\netcoreapp2.1\Mod5_EjerciciosModulo5.pdb

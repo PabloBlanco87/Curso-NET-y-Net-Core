@@ -8,3 +8,4 @@ C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_Archivos\obj\Debug\netcoreap
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_Archivos\obj\Debug\netcoreapp2.1\Mod13_Archivos.AssemblyInfo.cs
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_Archivos\obj\Debug\netcoreapp2.1\Mod13_Archivos.dll
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_Archivos\obj\Debug\netcoreapp2.1\Mod13_Archivos.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_Archivos\obj\Debug\netcoreapp2.1\Mod13_Archivos.csprojAssemblyReference.cache

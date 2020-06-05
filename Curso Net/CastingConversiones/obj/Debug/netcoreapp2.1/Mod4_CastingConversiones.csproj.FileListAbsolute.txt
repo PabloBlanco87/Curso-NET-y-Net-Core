@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\bin\Debug\netcoreapp2.1\Mod4_CastingConversiones.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\bin\Debug\netcoreapp2.1\Mod4_CastingConversiones.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\bin\Debug\netcoreapp2.1\Mod4_CastingConversiones.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\bin\Debug\netcoreapp2.1\Mod4_CastingConversiones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\bin\Debug\netcoreapp2.1\Mod4_CastingConversiones.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CastingConversiones\obj\Debug\netcoreapp2.1\Mod4_CastingConversiones.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\bin\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\bin\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\bin\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\bin\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\bin\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ProcedimientosFunciones\obj\Debug\netcoreapp2.1\Mod5_ProcedimientosFunciones.pdb

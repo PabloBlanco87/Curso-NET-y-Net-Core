@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\bin\Debug\netcoreapp2.1\Mod7_Ejercicios.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\bin\Debug\netcoreapp2.1\Mod7_Ejercicios.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\bin\Debug\netcoreapp2.1\Mod7_Ejercicios.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\bin\Debug\netcoreapp2.1\Mod7_Ejercicios.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\bin\Debug\netcoreapp2.1\Mod7_Ejercicios.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\obj\Debug\netcoreapp2.1\Mod7_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\obj\Debug\netcoreapp2.1\Mod7_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\obj\Debug\netcoreapp2.1\Mod7_Ejercicios.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\obj\Debug\netcoreapp2.1\Mod7_Ejercicios.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\EjerciciosModulo7\obj\Debug\netcoreapp2.1\Mod7_Ejercicios.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\bin\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\bin\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\bin\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\bin\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\bin\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\OperacionesCadenas\obj\Debug\netcoreapp2.1\Mod6_OperacionesCadenas.pdb

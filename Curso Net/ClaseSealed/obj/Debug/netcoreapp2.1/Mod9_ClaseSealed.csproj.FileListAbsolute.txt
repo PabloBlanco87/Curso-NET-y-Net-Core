@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\bin\Debug\netcoreapp2.1\Mod9_ClaseSealed.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\bin\Debug\netcoreapp2.1\Mod9_ClaseSealed.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\bin\Debug\netcoreapp2.1\Mod9_ClaseSealed.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\bin\Debug\netcoreapp2.1\Mod9_ClaseSealed.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\bin\Debug\netcoreapp2.1\Mod9_ClaseSealed.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClaseSealed\obj\Debug\netcoreapp2.1\Mod9_ClaseSealed.pdb

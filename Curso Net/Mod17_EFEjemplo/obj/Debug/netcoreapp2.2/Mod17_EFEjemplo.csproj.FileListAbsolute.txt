@@ -1,0 +1,14 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\bin\Debug\netcoreapp2.2\Mod17_EFEjemplo.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\bin\Debug\netcoreapp2.2\Mod17_EFEjemplo.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\bin\Debug\netcoreapp2.2\Mod17_EFEjemplo.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\bin\Debug\netcoreapp2.2\Mod17_EFEjemplo.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\bin\Debug\netcoreapp2.2\Mod17_EFEjemplo.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.RazorAssemblyInfo.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.RazorAssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.RazorTargetAssemblyInfo.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_EFEjemplo\obj\Debug\netcoreapp2.2\Mod17_EFEjemplo.pdb

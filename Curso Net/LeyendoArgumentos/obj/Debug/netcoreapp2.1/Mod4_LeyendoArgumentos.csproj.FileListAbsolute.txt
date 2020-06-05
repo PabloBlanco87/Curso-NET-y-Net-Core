@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\bin\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\bin\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\bin\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\bin\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\bin\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\LeyendoArgumentos\obj\Debug\netcoreapp2.1\Mod4_LeyendoArgumentos.pdb

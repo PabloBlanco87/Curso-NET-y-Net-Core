@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Mod15_OperadoresLinq/1.0.0": {
+        "dependencies": {
+          "Mod15_ClausulaGroupBy": "1.0.0"
+        },
+        "runtime": {
+          "Mod15_OperadoresLinq.dll": {}
+        }
+      },
+      "Mod15_ClausulaGroupBy/1.0.0": {
+        "runtime": {
+          "Mod15_ClausulaGroupBy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod15_OperadoresLinq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mod15_ClausulaGroupBy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

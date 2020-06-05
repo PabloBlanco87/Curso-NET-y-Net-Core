@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\bin\Debug\netcoreapp2.1\Mod10_Interfaces.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\bin\Debug\netcoreapp2.1\Mod10_Interfaces.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\bin\Debug\netcoreapp2.1\Mod10_Interfaces.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\bin\Debug\netcoreapp2.1\Mod10_Interfaces.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\bin\Debug\netcoreapp2.1\Mod10_Interfaces.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\obj\Debug\netcoreapp2.1\Mod10_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\obj\Debug\netcoreapp2.1\Mod10_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\obj\Debug\netcoreapp2.1\Mod10_Interfaces.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\obj\Debug\netcoreapp2.1\Mod10_Interfaces.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Interfaces\obj\Debug\netcoreapp2.1\Mod10_Interfaces.pdb

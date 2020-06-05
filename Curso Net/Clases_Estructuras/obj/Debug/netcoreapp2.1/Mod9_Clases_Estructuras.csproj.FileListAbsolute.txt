@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\bin\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\bin\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\bin\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\bin\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\bin\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Clases_Estructuras\obj\Debug\netcoreapp2.1\Mod9_Clases_Estructuras.pdb

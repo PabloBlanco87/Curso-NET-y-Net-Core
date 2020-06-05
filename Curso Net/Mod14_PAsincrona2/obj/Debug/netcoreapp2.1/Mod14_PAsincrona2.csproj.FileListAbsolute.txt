@@ -1,0 +1,3 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod14_PAsincrona2\obj\Debug\netcoreapp2.1\Mod14_PAsincrona2.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod14_PAsincrona2\obj\Debug\netcoreapp2.1\Mod14_PAsincrona2.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod14_PAsincrona2\obj\Debug\netcoreapp2.1\Mod14_PAsincrona2.AssemblyInfo.cs

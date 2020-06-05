@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\bin\Debug\netcoreapp2.1\Mod11_Tuplas.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\bin\Debug\netcoreapp2.1\Mod11_Tuplas.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\bin\Debug\netcoreapp2.1\Mod11_Tuplas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\bin\Debug\netcoreapp2.1\Mod11_Tuplas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\bin\Debug\netcoreapp2.1\Mod11_Tuplas.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\obj\Debug\netcoreapp2.1\Mod11_Tuplas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\obj\Debug\netcoreapp2.1\Mod11_Tuplas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\obj\Debug\netcoreapp2.1\Mod11_Tuplas.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\obj\Debug\netcoreapp2.1\Mod11_Tuplas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Tuplas\obj\Debug\netcoreapp2.1\Mod11_Tuplas.pdb

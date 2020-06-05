@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\bin\Debug\netcoreapp2.1\Mod13_MemoryStream.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\bin\Debug\netcoreapp2.1\Mod13_MemoryStream.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\bin\Debug\netcoreapp2.1\Mod13_MemoryStream.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\bin\Debug\netcoreapp2.1\Mod13_MemoryStream.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\bin\Debug\netcoreapp2.1\Mod13_MemoryStream.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\obj\Debug\netcoreapp2.1\Mod13_MemoryStream.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\obj\Debug\netcoreapp2.1\Mod13_MemoryStream.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\obj\Debug\netcoreapp2.1\Mod13_MemoryStream.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\obj\Debug\netcoreapp2.1\Mod13_MemoryStream.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_MemoryStream\obj\Debug\netcoreapp2.1\Mod13_MemoryStream.pdb

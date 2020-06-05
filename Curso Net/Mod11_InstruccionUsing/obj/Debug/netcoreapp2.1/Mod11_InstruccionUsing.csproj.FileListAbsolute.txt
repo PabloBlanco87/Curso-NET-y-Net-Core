@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\bin\Debug\netcoreapp2.1\Mod11_InstruccionUsing.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\bin\Debug\netcoreapp2.1\Mod11_InstruccionUsing.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\bin\Debug\netcoreapp2.1\Mod11_InstruccionUsing.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\bin\Debug\netcoreapp2.1\Mod11_InstruccionUsing.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\bin\Debug\netcoreapp2.1\Mod11_InstruccionUsing.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\obj\Debug\netcoreapp2.1\Mod11_InstruccionUsing.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\obj\Debug\netcoreapp2.1\Mod11_InstruccionUsing.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\obj\Debug\netcoreapp2.1\Mod11_InstruccionUsing.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\obj\Debug\netcoreapp2.1\Mod11_InstruccionUsing.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_InstruccionUsing\obj\Debug\netcoreapp2.1\Mod11_InstruccionUsing.pdb

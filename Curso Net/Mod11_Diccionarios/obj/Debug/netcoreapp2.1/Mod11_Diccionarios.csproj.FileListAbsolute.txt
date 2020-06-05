@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\bin\Debug\netcoreapp2.1\Mod11_Diccionarios.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\bin\Debug\netcoreapp2.1\Mod11_Diccionarios.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\bin\Debug\netcoreapp2.1\Mod11_Diccionarios.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\bin\Debug\netcoreapp2.1\Mod11_Diccionarios.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\bin\Debug\netcoreapp2.1\Mod11_Diccionarios.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\obj\Debug\netcoreapp2.1\Mod11_Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\obj\Debug\netcoreapp2.1\Mod11_Diccionarios.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\obj\Debug\netcoreapp2.1\Mod11_Diccionarios.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\obj\Debug\netcoreapp2.1\Mod11_Diccionarios.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Diccionarios\obj\Debug\netcoreapp2.1\Mod11_Diccionarios.pdb

@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\bin\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\bin\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\bin\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\bin\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\bin\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\CursoCSharpIFELSE\obj\Debug\netcoreapp2.1\Mod4_CursoCSharpIFELSE.pdb

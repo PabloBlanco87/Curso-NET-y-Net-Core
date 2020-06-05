@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\bin\Debug\netcoreapp2.1\Mod11_Namespaces.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\bin\Debug\netcoreapp2.1\Mod11_Namespaces.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\bin\Debug\netcoreapp2.1\Mod11_Namespaces.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\bin\Debug\netcoreapp2.1\Mod11_Namespaces.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\bin\Debug\netcoreapp2.1\Mod11_Namespaces.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\obj\Debug\netcoreapp2.1\Mod11_Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\obj\Debug\netcoreapp2.1\Mod11_Namespaces.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\obj\Debug\netcoreapp2.1\Mod11_Namespaces.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\obj\Debug\netcoreapp2.1\Mod11_Namespaces.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Namespaces\obj\Debug\netcoreapp2.1\Mod11_Namespaces.pdb

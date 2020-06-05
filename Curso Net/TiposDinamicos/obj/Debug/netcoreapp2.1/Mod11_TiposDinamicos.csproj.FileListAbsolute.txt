@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\bin\Debug\netcoreapp2.1\Mod11_TiposDinamicos.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\bin\Debug\netcoreapp2.1\Mod11_TiposDinamicos.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\bin\Debug\netcoreapp2.1\Mod11_TiposDinamicos.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\bin\Debug\netcoreapp2.1\Mod11_TiposDinamicos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\bin\Debug\netcoreapp2.1\Mod11_TiposDinamicos.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\obj\Debug\netcoreapp2.1\Mod11_TiposDinamicos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\obj\Debug\netcoreapp2.1\Mod11_TiposDinamicos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\obj\Debug\netcoreapp2.1\Mod11_TiposDinamicos.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\obj\Debug\netcoreapp2.1\Mod11_TiposDinamicos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\TiposDinamicos\obj\Debug\netcoreapp2.1\Mod11_TiposDinamicos.pdb

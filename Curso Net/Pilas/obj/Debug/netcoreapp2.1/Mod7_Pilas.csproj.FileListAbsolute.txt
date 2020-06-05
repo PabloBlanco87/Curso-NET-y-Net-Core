@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\bin\Debug\netcoreapp2.1\Mod7_Pilas.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\bin\Debug\netcoreapp2.1\Mod7_Pilas.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\bin\Debug\netcoreapp2.1\Mod7_Pilas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\bin\Debug\netcoreapp2.1\Mod7_Pilas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\bin\Debug\netcoreapp2.1\Mod7_Pilas.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Pilas\obj\Debug\netcoreapp2.1\Mod7_Pilas.pdb

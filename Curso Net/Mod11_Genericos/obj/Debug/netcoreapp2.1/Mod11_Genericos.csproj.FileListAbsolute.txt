@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\bin\Debug\netcoreapp2.1\Mod11_Genericos.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\bin\Debug\netcoreapp2.1\Mod11_Genericos.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\bin\Debug\netcoreapp2.1\Mod11_Genericos.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\bin\Debug\netcoreapp2.1\Mod11_Genericos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\bin\Debug\netcoreapp2.1\Mod11_Genericos.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\obj\Debug\netcoreapp2.1\Mod11_Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\obj\Debug\netcoreapp2.1\Mod11_Genericos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\obj\Debug\netcoreapp2.1\Mod11_Genericos.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\obj\Debug\netcoreapp2.1\Mod11_Genericos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Genericos\obj\Debug\netcoreapp2.1\Mod11_Genericos.pdb

@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\bin\Debug\netcoreapp2.1\Mod8_Herencia.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\bin\Debug\netcoreapp2.1\Mod8_Herencia.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\bin\Debug\netcoreapp2.1\Mod8_Herencia.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\bin\Debug\netcoreapp2.1\Mod8_Herencia.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\bin\Debug\netcoreapp2.1\Mod8_Herencia.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\obj\Debug\netcoreapp2.1\Mod8_Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\obj\Debug\netcoreapp2.1\Mod8_Herencia.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\obj\Debug\netcoreapp2.1\Mod8_Herencia.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\obj\Debug\netcoreapp2.1\Mod8_Herencia.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Herencia\obj\Debug\netcoreapp2.1\Mod8_Herencia.pdb

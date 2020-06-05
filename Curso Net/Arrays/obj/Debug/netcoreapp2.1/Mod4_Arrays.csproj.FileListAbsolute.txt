@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\bin\Debug\netcoreapp2.1\Mod4_Arrays.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\bin\Debug\netcoreapp2.1\Mod4_Arrays.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\bin\Debug\netcoreapp2.1\Mod4_Arrays.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\bin\Debug\netcoreapp2.1\Mod4_Arrays.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\bin\Debug\netcoreapp2.1\Mod4_Arrays.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Arrays\obj\Debug\netcoreapp2.1\Mod4_Arrays.pdb

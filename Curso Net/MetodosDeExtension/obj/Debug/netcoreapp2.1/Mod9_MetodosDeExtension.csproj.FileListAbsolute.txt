@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\bin\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\bin\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\bin\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\bin\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\bin\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\obj\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\obj\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\obj\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\obj\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosDeExtension\obj\Debug\netcoreapp2.1\Mod9_MetodosDeExtension.pdb

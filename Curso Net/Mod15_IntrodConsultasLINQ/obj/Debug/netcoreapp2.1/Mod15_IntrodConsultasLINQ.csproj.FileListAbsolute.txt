@@ -8,3 +8,4 @@ C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debu
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.AssemblyInfo.cs
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.dll
 C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_IntrodConsultasLINQ\obj\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.csprojAssemblyReference.cache

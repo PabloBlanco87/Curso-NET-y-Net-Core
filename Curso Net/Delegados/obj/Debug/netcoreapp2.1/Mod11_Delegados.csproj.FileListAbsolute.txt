@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Mod11_Delegados.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Mod11_Delegados.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Mod11_Delegados.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Mod11_Delegados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\bin\Debug\netcoreapp2.1\Mod11_Delegados.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Mod11_Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Mod11_Delegados.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Mod11_Delegados.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Mod11_Delegados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Delegados\obj\Debug\netcoreapp2.1\Mod11_Delegados.pdb

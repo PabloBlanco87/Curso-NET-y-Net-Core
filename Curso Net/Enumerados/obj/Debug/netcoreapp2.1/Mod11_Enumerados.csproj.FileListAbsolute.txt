@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\bin\Debug\netcoreapp2.1\Mod11_Enumerados.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\bin\Debug\netcoreapp2.1\Mod11_Enumerados.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\bin\Debug\netcoreapp2.1\Mod11_Enumerados.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\bin\Debug\netcoreapp2.1\Mod11_Enumerados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\bin\Debug\netcoreapp2.1\Mod11_Enumerados.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Mod11_Enumerados.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Mod11_Enumerados.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Mod11_Enumerados.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Mod11_Enumerados.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Enumerados\obj\Debug\netcoreapp2.1\Mod11_Enumerados.pdb

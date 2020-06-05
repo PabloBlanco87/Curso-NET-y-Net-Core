@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\bin\Debug\netcoreapp2.1\Mod6_Cadenas.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\bin\Debug\netcoreapp2.1\Mod6_Cadenas.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\bin\Debug\netcoreapp2.1\Mod6_Cadenas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\bin\Debug\netcoreapp2.1\Mod6_Cadenas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\bin\Debug\netcoreapp2.1\Mod6_Cadenas.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Cadenas\obj\Debug\netcoreapp2.1\Mod6_Cadenas.pdb

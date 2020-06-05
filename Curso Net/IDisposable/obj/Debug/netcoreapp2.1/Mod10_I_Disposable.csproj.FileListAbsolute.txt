@@ -1,0 +1,4 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\IDisposable\obj\Debug\netcoreapp2.1\Mod10_I_Disposable.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\IDisposable\obj\Debug\netcoreapp2.1\Mod10_I_Disposable.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\IDisposable\obj\Debug\netcoreapp2.1\Mod10_I_Disposable.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\IDisposable\obj\Debug\netcoreapp2.1\Mod10_I_Disposable.AssemblyInfo.cs

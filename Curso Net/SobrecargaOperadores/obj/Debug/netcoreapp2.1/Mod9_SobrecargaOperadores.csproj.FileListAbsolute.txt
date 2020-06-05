@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\bin\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\bin\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\bin\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\bin\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\bin\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\obj\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\obj\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\obj\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\obj\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\SobrecargaOperadores\obj\Debug\netcoreapp2.1\Mod9_SobrecargaOperadores.pdb

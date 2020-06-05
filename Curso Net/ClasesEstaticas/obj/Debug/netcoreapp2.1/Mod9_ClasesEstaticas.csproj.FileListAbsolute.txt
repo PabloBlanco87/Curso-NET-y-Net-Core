@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\bin\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\bin\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\bin\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\bin\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\bin\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\obj\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\obj\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\obj\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\obj\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\ClasesEstaticas\obj\Debug\netcoreapp2.1\Mod9_ClasesEstaticas.pdb

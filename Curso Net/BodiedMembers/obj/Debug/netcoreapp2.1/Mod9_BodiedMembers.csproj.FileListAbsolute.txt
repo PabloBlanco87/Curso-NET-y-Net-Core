@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\bin\Debug\netcoreapp2.1\Mod9_BodiedMembers.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\bin\Debug\netcoreapp2.1\Mod9_BodiedMembers.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\bin\Debug\netcoreapp2.1\Mod9_BodiedMembers.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\bin\Debug\netcoreapp2.1\Mod9_BodiedMembers.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\bin\Debug\netcoreapp2.1\Mod9_BodiedMembers.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\BodiedMembers\obj\Debug\netcoreapp2.1\Mod9_BodiedMembers.pdb

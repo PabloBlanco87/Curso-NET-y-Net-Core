@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\bin\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\bin\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\bin\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\bin\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\bin\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\obj\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\obj\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\obj\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\obj\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod13_LeerDatosDeStream\obj\Debug\netcoreapp2.1\Mod13_LeerDatosDeStream.pdb

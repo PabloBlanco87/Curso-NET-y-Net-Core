@@ -1,0 +1,10 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\bin\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\bin\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\bin\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\bin\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\bin\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\obj\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\obj\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\obj\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\obj\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod11_Boxing_Unboxing\obj\Debug\netcoreapp2.1\Mod11_Boxing_Unboxing.pdb

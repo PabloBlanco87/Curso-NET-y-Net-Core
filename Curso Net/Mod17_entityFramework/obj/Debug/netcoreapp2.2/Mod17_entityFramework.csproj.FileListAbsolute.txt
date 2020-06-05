@@ -1,0 +1,14 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\bin\Debug\netcoreapp2.2\Mod17_entityFramework.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\bin\Debug\netcoreapp2.2\Mod17_entityFramework.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\bin\Debug\netcoreapp2.2\Mod17_entityFramework.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\bin\Debug\netcoreapp2.2\Mod17_entityFramework.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.RazorAssemblyInfo.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.RazorAssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.RazorTargetAssemblyInfo.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\bin\Debug\netcoreapp2.2\Mod17_entityFramework.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod17_entityFramework\obj\Debug\netcoreapp2.2\Mod17_entityFramework.pdb

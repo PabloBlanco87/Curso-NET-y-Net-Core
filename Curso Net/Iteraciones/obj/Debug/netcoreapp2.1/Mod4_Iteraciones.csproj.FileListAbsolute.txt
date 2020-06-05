@@ -1,0 +1,4 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Iteraciones\obj\Debug\netcoreapp2.1\Mod4_Iteraciones.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Iteraciones\obj\Debug\netcoreapp2.1\Mod4_Iteraciones.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Iteraciones\obj\Debug\netcoreapp2.1\Mod4_Iteraciones.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Iteraciones\obj\Debug\netcoreapp2.1\Mod4_Iteraciones.AssemblyInfo.cs

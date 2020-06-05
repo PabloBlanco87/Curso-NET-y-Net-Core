@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\bin\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\bin\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\bin\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\bin\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\bin\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\MetodosAnonimos\obj\Debug\netcoreapp2.1\Mod11_MetodosAnonimos.pdb

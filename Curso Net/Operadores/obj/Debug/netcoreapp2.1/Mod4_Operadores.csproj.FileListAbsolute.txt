@@ -1,0 +1,11 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\bin\Debug\netcoreapp2.1\Mod4_Operadores.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\bin\Debug\netcoreapp2.1\Mod4_Operadores.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\bin\Debug\netcoreapp2.1\Mod4_Operadores.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\bin\Debug\netcoreapp2.1\Mod4_Operadores.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\bin\Debug\netcoreapp2.1\Mod4_Operadores.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Operadores\obj\Debug\netcoreapp2.1\Mod4_Operadores.pdb

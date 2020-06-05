@@ -1,0 +1,14 @@
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_ClausulaSelect.deps.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_ClausulaSelect.runtimeconfig.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_ClausulaSelect.runtimeconfig.dev.json
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_ClausulaSelect.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_ClausulaSelect.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\bin\Debug\netcoreapp2.1\Mod15_IntrodConsultasLINQ.pdb
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.csprojAssemblyReference.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.AssemblyInfoInputs.cache
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.AssemblyInfo.cs
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.csproj.CopyComplete
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.dll
+C:\Users\Pablo\Curso-NET-y-Net-Core\Curso Net\Mod15_ClausulaSelect\obj\Debug\netcoreapp2.1\Mod15_ClausulaSelect.pdb
