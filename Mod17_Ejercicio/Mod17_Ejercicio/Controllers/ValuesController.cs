@@ -29,9 +29,11 @@ namespace Mod17_Ejercicio.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
+
             _alumnoService.AddAlumno(new Models.Alumno
             {
-                Nombre = "Pablo",
+                Nombre = Console.ReadLine(),
+                //Nombre = "Pablo",
                 Apellidos = "Blanco Hernandez",
                 Edad = 32
             });

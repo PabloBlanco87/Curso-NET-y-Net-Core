@@ -1,0 +1,14 @@
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\bin\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.deps.json
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\bin\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.runtimeconfig.json
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\bin\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.runtimeconfig.dev.json
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\bin\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.dll
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\bin\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.pdb
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.csprojAssemblyReference.cache
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.csproj.CoreCompileInputs.cache
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.RazorAssemblyInfo.cache
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.RazorAssemblyInfo.cs
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.AssemblyInfoInputs.cache
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.AssemblyInfo.cs
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.RazorTargetAssemblyInfo.cache
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.dll
+E:\Udemy\api.inyecciondependencias\api.inyecciondependencias.netcore\api.inyecciondependencias.netcore\obj\Debug\netcoreapp2.2\api.inyecciondependencias.netcore.pdb
