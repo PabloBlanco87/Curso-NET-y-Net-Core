@@ -1,0 +1,11 @@
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\bin\Debug\netcoreapp2.2\EjercicioBBDDAgenda.deps.json
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\bin\Debug\netcoreapp2.2\EjercicioBBDDAgenda.runtimeconfig.json
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\bin\Debug\netcoreapp2.2\EjercicioBBDDAgenda.runtimeconfig.dev.json
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\bin\Debug\netcoreapp2.2\EjercicioBBDDAgenda.dll
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.AssemblyInfoInputs.cache
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.AssemblyInfo.cs
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\bin\Debug\netcoreapp2.2\EjercicioBBDDAgenda.pdb
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.dll
+C:\Users\Pablo\source\repos\EjercicioBBDDAgenda\EjercicioBBDDAgenda\obj\Debug\netcoreapp2.2\EjercicioBBDDAgenda.pdb
