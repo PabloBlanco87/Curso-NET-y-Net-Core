@@ -14,9 +14,10 @@ namespace EjercicioBBDDAgenda.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //Debes introducir tu stringConnection
             optionsBuilder.UseSqlServer(@"Server = tcp:agendapablo.database.windows.net, 1433; " +
                 "Initial Catalog=Agenda;Persist Security Info=False;" +
-                "User ID=Pablitroke;Password=Zizou1987;MultipleActiveResultSets=False;" +
+                "User ID=Pablitroke;Password={tucontraseña};MultipleActiveResultSets=False;" +
                 "Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
         }
 

@@ -3813,11 +3813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pablo\\source\\repos\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda.csproj",
+      "projectUniqueName": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\EjercicioFinalBBDDAgenda\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda.csproj",
       "projectName": "EjercicioBBDDAgenda",
-      "projectPath": "C:\\Users\\Pablo\\source\\repos\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda.csproj",
+      "projectPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\EjercicioFinalBBDDAgenda\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda.csproj",
       "packagesPath": "C:\\Users\\Pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pablo\\source\\repos\\EjercicioBBDDAgenda\\EjercicioBBDDAgenda\\obj\\",
+      "outputPath": "C:\\Users\\Pablo\\Curso-NET-y-Net-Core\\EjercicioFinalBBDDAgenda\\EjercicioBBDDAgenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
